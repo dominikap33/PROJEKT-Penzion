@@ -1,0 +1,23 @@
+{
+  "name": "projekt-penzion",
+  "version": "1.0.0",
+  "description": "penzion",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikap33/PROJEKT-Penzion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominikap33/PROJEKT-Penzion/issues"
+  },
+  "homepage": "https://github.com/dominikap33/PROJEKT-Penzion#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
